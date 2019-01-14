@@ -1,7 +1,11 @@
 //Challenge
 
-let  Palindrome = "civic";
-let  
+let  x = "string";
+let  y = "civic"
+
+let check = () =>{
+  let  =
+}
 
 function () {
   return ();
